@@ -41,7 +41,7 @@ Received value Hello world!
 Received completion finished’
 ```
 
-## Subscribing with assign(to:on:)
+## Subscribing with assign(to: on:)
 
 - KVO 호환 속성에 바로 연결 가능하도록 하는 메소드
 - RxSwift 의 bind(to:) 와 유사
